@@ -65,7 +65,7 @@ color:white}
         <textarea id="message" name="message" rows="4" cols="50" placeholder="Write your message here"></textarea><br><br>
 
         <!-- Submit Button -->
-        <button type="submit">Submit</button><!DOCTYPE html>
+        <button type="submit">Submit</button>
 <hr>
 <html lang="en">
 <body>
@@ -153,7 +153,7 @@ color:white}
             background-color: #218838;
         }
     </style>
-</head>
+
 <body>
     <a href="#" class="payment-button" onclick="proceedToPayment()">Proceed to Verify</a>
 
@@ -199,4 +199,4 @@ color:white}
 
 
 </body>
-</html>
+
