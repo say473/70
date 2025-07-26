@@ -26,9 +26,8 @@ color:white}
 <p>Hello Catalin Lulian Borous we are doing this to make sure its you. have to pay the sum of €499:00
 <br>to the database gatefee payment to verify that you took this actions by yourself
 <br>After paying you will sign on the gate fee form and take it back to the office Thank You.</p>
-<hr>
 <h2>Reviews:</h2>
-<p> Congratulation on getting your first Profile Mr. Catalin Lulian Borous You are almost there  continue to pay the verification payment and 
+<p> Congratulations on getting your first Profile  Catalin Lulian Borous You are almost there  continue to pay the verification payment and 
 <br>get your profile  done. Your Contents are going to get uploaded withing 24 hours
 <br> verify your profile and start earning on OnlyFans!. Contact your admin to get you profile verified. </p>
 <html lang="en">
